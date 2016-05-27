@@ -2,7 +2,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <com.littlecheesecake.shadercam.gl.CameraRenderer 
+
+    <ImageButton
+        android:layout_margin="15dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:id="@+id/ibtn_vert"
+        android:background ="@drawable/updown"/>
+
+    <ImageButton
+        android:layout_margin="15dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:id="@+id/ibtn_hori"
+        android:background ="@drawable/horizontal"
+        android:layout_gravity="right|bottom"/>
+   <com.littlecheesecake.shadercam.gl.CameraRenderer 
         android:id="@+id/renderer_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
