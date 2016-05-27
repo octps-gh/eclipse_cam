@@ -1,16 +1,17 @@
 ##Shader Camera
 Originally Created By [LittleCheeseCake](http://littlecheesecake.me)
 
-Modified My YuZhang (yuzhang7676@163.com) on May,27,2016
+Modified My  YuZhang [yuzhang7676@163.com](yuzhang7676@163.com) on May,27,2016
 
 
 about Author: YuZhang
 
 Senior Graphics Software engineer.
+
 Senior Android Graphics engineer.
 
 
-
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
