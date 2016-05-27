@@ -1,6 +1,19 @@
 ##Shader Camera
 Originally Created By [LittleCheeseCake](http://littlecheesecake.me)
+
 Modified My YuZhang (yuzhang7676@163.com) on May,27,2016
+
+
+about Author: YuZhang
+
+Senior Graphics Software engineer.
+Senior Android Graphics engineer.
+
+
+
+
+
+
 
 Occasionally I receives emails asking how to render Camera Frame using OpenGL ES on Android. I lazily used some codes from an open source project [InstaCam](https://github.com/harism/android_instacam) without fully understand until recently I reviewed some fundamentals of OpenGL ES and re-impelemented a demo app for camera frame rendering using shaders. This post is to discuss some key aspects in the implementation and share the demo codes.
 
